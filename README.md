@@ -9,3 +9,6 @@
 ```
 透過mailgun來達成寄信功能（但須透過 Authorized Recipients驗證）
 ```
+
+![image](https://github.com/chiaqingwu/sendMail/blob/master/01.png)
+![image](https://github.com/chiaqingwu/sendMail/blob/master/02.png)
